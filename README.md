@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/f28b4022600593.58c272e374fa3.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Muhammad Taha</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Graphic Designer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8a/2e/4c/8a2e4c79a1b9c983dc6bf8d6cbada43a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadtaha-shakeel&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadtaha-shakeel" /> </p>
